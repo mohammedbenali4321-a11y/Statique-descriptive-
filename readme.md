@@ -20,7 +20,7 @@ Retrouvez mes travaux, mon parcours et mes projets sur mes différentes platefor
 - 💼 **LinkedIn :** [Mohamed BEN ALI](https://www.linkedin.com/in/mohamed-ben-ali-m)
 - 🐙 **GitHub :** [mohammedbenali4321-a11y](https://github.com/mohammedbenali4321-a11y)
 - 🗺️ **Roadmap.sh :** [benalimohamed](https://roadmap.sh/u/benalimohamed)
-- 🏆 **Kaggle :** [Mohamed BEN ALI](https://www.kaggle.com/mohamedbenali4321)
+- 🏆 **Kaggle :** [Mohamed BEN ALI](https://www.kaggle.com/mbaitri)
 
 ---
 
