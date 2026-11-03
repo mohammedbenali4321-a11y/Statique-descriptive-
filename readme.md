@@ -7,9 +7,7 @@ Ce dépôt contient les travaux pratiques (TP) réalisés dans le cadre du modul
 ## 👤 Auteur
 
 - **Nom & Prénom :** Mohamed BEN ALI
-- **Filière :** Informatique 
 - **Spécialité :** Data Analyst & Intelligence Artificielle (DSIA)
-- **Établissement :**  RSK
 - **Date de création :** 16 Octobre 2026
 - **Date de publication :** 3 Novembre 2026
 
