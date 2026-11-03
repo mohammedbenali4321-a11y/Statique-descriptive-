@@ -1,0 +1,53 @@
+
+====================================================================
+
+Author: Mohamed BEN ALI
+
+Major: Artificial Intelligence
+
+Specialization: Data Analyst
+
+Group: 201
+
+
+====================================================================
+
+               INFORMATIONS ET MÉTADONNÉES DU PROJET
+
+====================================================================
+
+
+NOM DU PROJET          : STATI_PROBA
+
+DOMAINE                : Data Science / Data Analyst / Statistique
+
+DATE DE CRÉATION       : Octobre(10) 16/ 2026 14:32
+
+DATE DE PUBLICATION    : November(11) 3/ 2026 23:27
+
+--------------------------------------------------------------------
+
+ INFORMATIONS ACADÉMIQUES
+
+--------------------------------------------------------------------
+
+FILIÈRE                : Génie Informatique / Data Engineering
+
+OPTION / SPÉCIALITÉ    : Data Science / Data Analyst & Intelligence Artificielle (DSIA)
+
+CADRE DU PROJET        : Travaux Pratiques 
+
+
+--------------------------------------------------------------------
+
+ TECHNOLOGIES ET OUTILS
+
+--------------------------------------------------------------------
+
+LOGECIAL : Vs code
+
+language : Python
+
+
+====================================================================
+
